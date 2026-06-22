@@ -1,2 +1,2 @@
-Name=input("magaceygu waa updy rahman")
+Name=input("magaceygu waa maxay")
 print("asalamu calaykuma axbaabii,"+cabdirahman)
