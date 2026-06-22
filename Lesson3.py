@@ -1,2 +1,2 @@
-name=input("magaceygu waa maxay")
-print("asalamu calaykuma axbaabii,"+cabdirahman yare)
+name=input("magaceygu waa abdirahman")
+print("asalamu calaykuma axbaabii,"+name)
