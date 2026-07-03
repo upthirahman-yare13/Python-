@@ -1,2 +1,2 @@
 import math
-print(math.sqr(16))
+print(math.sqrt(16))
