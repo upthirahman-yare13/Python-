@@ -1,1 +1,10 @@
-api-key="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")
+from openai import OpenAI
+
+client = OpenAI(api_key="Halkan-soo-geli-furahaaga")
+
+response = client.chat.completions.create(
+  model="gpt-3.5-turbo",
+  messages=[{"role": "user", "content": "Hello! Sidee tahay?"}]
+)
+
+print(response.choices[0].message.content)
