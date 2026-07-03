@@ -1,4 +1,4 @@
-class gaari:
+class Gaari:
   def--init--(self,magac):
   self.magac=magac
   my_car=Gaari("toyota")
