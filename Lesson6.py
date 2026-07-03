@@ -1,3 +1,3 @@
-dev salaan(magac):
+def salaan(magac):
 print("Hello,"+magac)
-asc("abdirahman")
+salaan("abdirahman")
